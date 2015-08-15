@@ -13,3 +13,5 @@ btn.hover {
 	background: #333333;
 	transition: background 0.5s;
 }
+
+## Flex box
