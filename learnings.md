@@ -14,4 +14,9 @@ btn.hover {
 	transition: background 0.5s;
 }
 
+## display
+1. inline
+2. block
+3. inline-block
+
 ## Flex box
